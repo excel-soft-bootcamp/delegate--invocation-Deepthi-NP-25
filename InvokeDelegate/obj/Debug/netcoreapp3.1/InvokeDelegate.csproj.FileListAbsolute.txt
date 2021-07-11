@@ -1,0 +1,13 @@
+C:\Users\deepthi.np\source\repos\InvokeDelegate\InvokeDelegate\bin\Debug\netcoreapp3.1\InvokeDelegate.exe
+C:\Users\deepthi.np\source\repos\InvokeDelegate\InvokeDelegate\bin\Debug\netcoreapp3.1\InvokeDelegate.deps.json
+C:\Users\deepthi.np\source\repos\InvokeDelegate\InvokeDelegate\bin\Debug\netcoreapp3.1\InvokeDelegate.runtimeconfig.json
+C:\Users\deepthi.np\source\repos\InvokeDelegate\InvokeDelegate\bin\Debug\netcoreapp3.1\InvokeDelegate.runtimeconfig.dev.json
+C:\Users\deepthi.np\source\repos\InvokeDelegate\InvokeDelegate\bin\Debug\netcoreapp3.1\InvokeDelegate.dll
+C:\Users\deepthi.np\source\repos\InvokeDelegate\InvokeDelegate\bin\Debug\netcoreapp3.1\InvokeDelegate.pdb
+C:\Users\deepthi.np\source\repos\InvokeDelegate\InvokeDelegate\obj\Debug\netcoreapp3.1\InvokeDelegate.AssemblyInfoInputs.cache
+C:\Users\deepthi.np\source\repos\InvokeDelegate\InvokeDelegate\obj\Debug\netcoreapp3.1\InvokeDelegate.AssemblyInfo.cs
+C:\Users\deepthi.np\source\repos\InvokeDelegate\InvokeDelegate\obj\Debug\netcoreapp3.1\InvokeDelegate.csproj.CoreCompileInputs.cache
+C:\Users\deepthi.np\source\repos\InvokeDelegate\InvokeDelegate\obj\Debug\netcoreapp3.1\InvokeDelegate.dll
+C:\Users\deepthi.np\source\repos\InvokeDelegate\InvokeDelegate\obj\Debug\netcoreapp3.1\InvokeDelegate.pdb
+C:\Users\deepthi.np\source\repos\InvokeDelegate\InvokeDelegate\obj\Debug\netcoreapp3.1\InvokeDelegate.genruntimeconfig.cache
+C:\Users\deepthi.np\source\repos\InvokeDelegate\InvokeDelegate\obj\Debug\netcoreapp3.1\InvokeDelegate.csprojAssemblyReference.cache
